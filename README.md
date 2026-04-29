@@ -2,6 +2,8 @@
 
 Structural Cryptographic Diagnostics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19882637.svg)](https://doi.org/10.5281/zenodo.19882637)
+
 Part of the MB-X.01 / OMNIA structural measurement lineage.
 
 ---
