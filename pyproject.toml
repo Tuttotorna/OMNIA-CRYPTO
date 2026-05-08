@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omnia-crypto"
+version = "0.1.0"
+description = "Bounded structural diagnostics for cryptographic-like behavior."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+  { name = "Massimiliano Brighindi", email = "brighissimo@users.noreply.github.com" }
+]
+license = { file = "LICENSE" }
+keywords = ["omnia", "crypto", "structural-diagnostics", "hash-avalanche", "post-hoc-measurement"]
+
+[project.urls]
+Repository = "https://github.com/Tuttotorna/OMNIA-CRYPTO"
+DOI = "https://doi.org/10.5281/zenodo.19882637"
+
+[tool.setuptools]
+py-modules = []
