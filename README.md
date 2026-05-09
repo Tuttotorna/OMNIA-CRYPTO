@@ -243,3 +243,22 @@ Its central boundary is:
 ```text
 measurement != inference != decision
 ```
+
+---
+
+## OMNIA-CRYPTO — Public Boundary
+
+- OMNIA-CRYPTO is a bounded structural diagnostics layer for cryptographic behavior.
+- OMNIA-CRYPTO is not cryptography.
+- OMNIA-CRYPTO is not a cryptographic tool.
+- OMNIA-CRYPTO is not cryptographic proof.
+- OMNIA-CRYPTO is not key recovery.
+- OMNIA-CRYPTO is not cracking.
+- OMNIA-CRYPTO does not break encryption.
+- OMNIA-CRYPTO is not a truth oracle.
+- OMNIA-CRYPTO is not a semantic judge.
+- OMNIA-CRYPTO is not a decision engine.
+- measurement != inference != decision
+- decision remains external
+
+This section is a public boundary clarification. It does not change the repository core logic.
