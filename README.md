@@ -34,6 +34,8 @@ Decision remains external.
 
 ---
 
+- [`docs/OMNIA_CRYPTO_PUBLIC_POSITION.md`](docs/OMNIA_CRYPTO_PUBLIC_POSITION.md)
+
 ## Current role
 
 OMNIA-CRYPTO applies the OMNIA measurement lineage to bounded cryptographic-like cases.
@@ -204,6 +206,40 @@ measurement != inference != decision
 - OMNIA-VALIDATION: https://github.com/Tuttotorna/OMNIA-VALIDATION
 - OMNIA-SECURITY: https://github.com/Tuttotorna/OMNIA-SECURITY
 - omnia-limit: https://github.com/Tuttotorna/omnia-limit
+
+---
+
+## Public position
+
+OMNIA-CRYPTO public positioning is documented here:
+
+- [`docs/OMNIA_CRYPTO_PUBLIC_POSITION.md`](docs/OMNIA_CRYPTO_PUBLIC_POSITION.md)
+
+Core thesis:
+
+```text
+crypto signal != cryptographic proof
+structural integrity signal != security proof
+```
+
+Core boundary:
+
+```text
+crypto signal != cryptographic proof
+measurement != inference != decision
+```
+
+Core role:
+
+```text
+OMNIA-CRYPTO measures structural behavior around cryptographic representations, hashes, commitments, signatures, traces, and integrity boundaries.
+```
+
+OMNIA-CRYPTO does not replace cryptography.
+
+It does not prove cryptographic security.
+
+It does not make final security decisions.
 
 ---
 
