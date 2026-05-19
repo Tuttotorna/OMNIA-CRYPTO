@@ -34,8 +34,6 @@ Decision remains external.
 
 ---
 
-- [`docs/OMNIA_CRYPTO_PUBLIC_POSITION.md`](docs/OMNIA_CRYPTO_PUBLIC_POSITION.md)
-
 ## Current role
 
 OMNIA-CRYPTO applies the OMNIA measurement lineage to bounded cryptographic-like cases.
@@ -240,7 +238,6 @@ OMNIA-CRYPTO does not replace cryptography.
 It does not prove cryptographic security.
 
 It does not make final security decisions.
-
 ---
 
 ## Citation
